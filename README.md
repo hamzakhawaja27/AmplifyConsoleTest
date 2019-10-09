@@ -1,0 +1,2 @@
+# AmplifyConsoleTest
+TestingAmplifyConsole
